@@ -2,7 +2,7 @@
 <pre><code>wget https://raw.github.com/arieonline/autoscript/master/debian7.sh
 bash debian7.sh
 </code></pre>
-<p>Tested on</p>
+<h2>Tested on</h2>
 <ul>
 <li>Debian 7 32 bit</li>
 <li>Debian 7 64 bit</li>
