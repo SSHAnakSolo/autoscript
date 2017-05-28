@@ -12,8 +12,8 @@ bash debian7.sh
 <ul>
 <li>OpenSSH port 22, 143</li>
 <li>OpenVPN port 1194 tcp</li>
-<li>Dropbear port 109, 110, 443</li>
-<li>Squid port 8080 (limit to IP VPS)</li>
+<li>Dropbear port 80, 109, 110, 443</li>
+<li>Squid port 3128, 8000, 8080 (limit to IP VPS)</li>
 <li>badvpn-udpgw port 7300</li>
 </ul>
 <h3>What's features included</h3>
