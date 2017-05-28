@@ -1,5 +1,5 @@
 # Debian 7 32bit Autoscript Installer VPS
-<pre><code>wget https://raw.github.com/arieonline/autoscript/master/debian7.sh
+<pre><code>wget <a href="http://www.sshanaksolo.info">https://raw.github.com/sshanaksolo/autoscript/master/debian7.sh</a>
 bash debian7.sh
 </code></pre>
 <h2>Tested on</h2>
@@ -37,14 +37,14 @@ bash debian7.sh
 <h3>What's script included</h3>
 <ul>
 <li>screenfetch</li>
-<li>ps_mem.py (<a href="https://github.com/pixelb/ps_mem/">https://github.com/pixelb/ps_mem/</a>)</li>
-<li>speedtest-cli (<a href="https://github.com/sivel/speedtest-cli">https://github.com/sivel/speedtest-cli</a>)</li>
+<li>ps_mem.py (<a href="http://www.sshanaksolo.info">https://github.com/pixelb/ps_mem/)</a></li>
+<li>speedtest-cli (<a href="http://www.sshanaksolo.info">https://github.com/sivel/speedtest-cli)</a></li>
 <li>bench-network.sh</li>
 <li>user-login.sh</li>
 <li>user-limit.sh</li>
 <li>user-expire.sh</li>
 </ul>
 <h2>Openvpn</h2>
-<pre><code>wget <a href="https://raw.github.com/arieonline/autoscript/master/dimas.debian">https://raw.github.com/arieonline/autoscript/master/dimas.debian</a>
-bash dimas.debian
+<pre><code>wget <a href="http://www.sshanaksolo.info">https://raw.github.com/sshanaksolo/autoscript/master/ovpn.debian</a>
+bash ovpn.debian
 </code></pre>
